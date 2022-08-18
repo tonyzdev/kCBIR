@@ -3,9 +3,11 @@
 
 仓库下载
 > git clone https://github.com/tonyzdev/kCBIR.git
+
 > cd kCBIR
 
 代码提交
 > git add * 
 > git commit -m "content"
+
 > git push

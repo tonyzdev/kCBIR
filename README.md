@@ -7,8 +7,15 @@
 > cd kCBIR
 
 代码提交
+> cd kCBIR
+
 > git add * 
 
 > git commit -m "content"
 
 > git push
+
+代码更新
+> cd kCBIR
+
+> git pull

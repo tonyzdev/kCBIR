@@ -1,1 +1,2 @@
-# kCBIR
+# kCBIR 
+提出了面向贫信息、不完备信息的精确图像检索理念， 并基于内容检索(Content-based Image Retrieval，简称 CBIR) 创新性提出基于关键内容检索(Key-content-based Image Retrieval，简称KCBIR)
